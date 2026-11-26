@@ -112,6 +112,7 @@ live-faceswap/
 
 ## 上游与许可
 
+- 本仓库的脚本和工具：[MIT](LICENSE)。MIT 只覆盖本仓库自己的文件，不改变下面上游代码和模型的许可。
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)：AGPL-3.0，本仓库不包含其源码。
 - [InsightFace](https://github.com/deepinsight/insightface) 模型（inswapper、buffalo_l）：仅限非商业研究。
 - GPEN 模型：使用前请查阅其原始许可。
