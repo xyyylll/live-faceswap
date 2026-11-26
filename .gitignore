@@ -1,0 +1,12 @@
+# fetched by setup.sh (upstream source, venv, model weights)
+Deep-Live-Cam/
+*.onnx
+*.pth
+venv/
+
+# QC contact sheets from tools/check_faces.py
+*_sheet.jpg
+
+__pycache__/
+*.pyc
+.DS_Store
